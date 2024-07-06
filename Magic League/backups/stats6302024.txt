@@ -1,0 +1,23 @@
+01|Atla Palani Nest Tender|0|N/A|ENABLED|1000
+02|Jodah the Unifier|0|N/A|ENABLED|1000
+03|Niv-Mizzet Reborn (Jegantha the Wellspring)|0|N/A|ENABLED|1000
+04|Vial Smasher the Fierce & Brinelin the Moon Kraken|0|N/A|ENABLED|1000
+05|Krark the Thumbless & Sakashima of a Thousand Faces|0|N/A|ENABLED|1000
+06|Muldrotha the Gravetide|0|N/A|ENABLED|1000
+07|Zimone and Dina|0|N/A|ENABLED|1000
+08|Pir Imaginative Rascal & Toothy Imaginary Friend|0|N/A|ENABLED|1000
+09|Alela Artful Provocateur|0|N/A|ENABLED|1000
+10|Jalira Master Polymorphist|0|N/A|ENABLED|1000
+11|Arcades the Strategist|0|N/A|ENABLED|1000
+12|Lazav Dimir Mastermind (Gyruda Doom of Depths)|0|N/A|ENABLED|1000
+13|Octavia Living Thesis|0|N/A|ENABLED|1000
+14|Eris Roar  of the Storm|0|N/A|ENABLED|1000
+15|Ellie and Alan, Paleontologists (Keruga, the Macrosage)|0|N/A|ENABLED|1000
+16|Strax Sontaran Nurse|0|N/A|ENABLED|1000
+17|The Beamtown Bullies|0|N/A|ENABLED|1000
+18|Runo Stromkirk|0|N/A|ENABLED|1000
+19|Kelsien the Plague|0|N/A|ENABLED|1000
+20|Brion Stoutarm|0|N/A|ENABLED|1000
+21|Gavi Nest Warden|0|N/A|ENABLED|1000
+22|Kenessos Priest of Thassa|0|N/A|DISABLED|1000
+23|Wyleth Soul of Steel|0|N/A|DISABLED|1000

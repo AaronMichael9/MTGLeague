@@ -1,0 +1,37 @@
+NO GAME IN PROGRESS
+*****
+[{1,05,Krark the Thumbless & Sakashima of a Thousand Faces}{4,03,Niv-Mizzet Reborn (Jegantha the Wellspring)}{2,16,Strax Sontaran Nurse}{3,10,Jalira Master Polymorphist}]7/3/24
+[{1,06,Muldrotha the Gravetide}{2,04,Vial Smasher the Fierce & Brinelin the Moon Kraken}{4,18,Runo Stromkirk}{4,09,Alela Artful Provocateur}]7/3/24
+[{1,07,Zimone and Dina}{2,20,Brion Stoutarm}{4,02,Jodah the Unifier}{3,12,Lazav Dimir Mastermind (Gyruda Doom of Depths)}]7/2/24
+[{3,14,Eris Roar  of the Storm}{3,16,Strax Sontaran Nurse}{4,15,Ellie and Alan, Paleontologists (Keruga, the Macrosage)}{1,02,Jodah the Unifier}]7/2/24
+[{3,17,The Beamtown Bullies}{5,03,Niv-Mizzet Reborn (Jegantha the Wellspring)}{2,11,Arcades the Strategist}{1,08,Pir Imaginative Rascal & Toothy Imaginary Friend}{4,02,Jodah the Unifier}]7/1/24
+[{5,01,Atla Palani Nest Tender}{1,05,Krark the Thumbless & Sakashima of a Thousand Faces}{3,03,Niv-Mizzet Reborn (Jegantha the Wellspring)}{2,11,Arcades the Strategist}{4,02,Jodah the Unifier}]7/1/24
+[{1,01,Atla Palani Nest Tender}{2,05,Krark the Thumbless & Sakashima of a Thousand Faces}{3,06,Muldrotha the Gravetide}]7/1/24
+[{3,05,Krark the Thumbless & Sakashima of a Thousand Faces}{2,06,Muldrotha the Gravetide}{1,08,Pir Imaginative Rascal & Toothy Imaginary Friend}{4,17,The Beamtown Bullies}]7/1/24
+[{4,01,Atla Palani Nest Tender}{2,02,Jodah the Unifier}{3,13,Octavia Living Thesis}{1,08,Pir Imaginative Rascal & Toothy Imaginary Friend}]7/1/24
+[{4,11,Arcades the Strategist}{3,03,Niv-Mizzet Reborn (Jegantha the Wellspring)}{1,06,Muldrotha the Gravetide}{2,17,The Beamtown Bullies}]7/1/24
+[{2,08,Pir Imaginative Rascal & Toothy Imaginary Friend}{4,20,Brion Stoutarm}{3,14,Eris Roar  of the Storm}{1,13,Octavia Living Thesis}]7/1/24
+[{4,02,Jodah the Unifier}{3,01,Atla Palani Nest Tender}{1,06,Muldrotha the Gravetide}{2,17,The Beamtown Bullies}]7/1/24
+[{1,06,Muldrotha the Gravetide}{3,08,Pir Imaginative Rascal & Toothy Imaginary Friend}{4,20,Brion Stoutarm}{2,17,The Beamtown Bullies}]7/1/24
+[{3,21,Gavi Nest Warden}{4,16,Strax Sontaran Nurse}{2,13,Octavia Living Thesis}{1,17,The Beamtown Bullies}]7/1/24
+[{1,20,Brion Stoutarm}{4,07,Zimone and Dina}{3,10,Jalira Master Polymorphist}{2,14,Eris Roar  of the Storm}]7/1/24
+[{4,12,Lazav Dimir Mastermind (Gyruda Doom of Depths)}{1,14,Eris Roar  of the Storm}{3,15,Ellie and Alan, Paleontologists (Keruga, the Macrosage)}{2,17,The Beamtown Bullies}]7/1/24
+[{4,04,Vial Smasher the Fierce & Brinelin the Moon Kraken}{1,13,Octavia Living Thesis}{3,09,Alela Artful Provocateur}{2,10,Jalira Master Polymorphist}]7/1/24
+[{3,02,Jodah the Unifier}{1,03,Niv-Mizzet Reborn (Jegantha the Wellspring)}{4,08,Pir Imaginative Rascal & Toothy Imaginary Friend}{2,11,Arcades the Strategist}]7/1/24
+[{4,10,Jalira Master Polymorphist}{1,11,Arcades the Strategist}{3,17,The Beamtown Bullies}{2,20,Brion Stoutarm}]7/1/24
+[{1,08,Pir Imaginative Rascal & Toothy Imaginary Friend}{3,09,Alela Artful Provocateur}{4,15,Ellie and Alan, Paleontologists (Keruga, the Macrosage)}{2,16,Strax Sontaran Nurse}]7/1/24
+[{1,06,Muldrotha the Gravetide}{2,07,Zimone and Dina}{4,13,Octavia Living Thesis}{3,14,Eris Roar  of the Storm}]7/1/24
+[{3,04,Vial Smasher the Fierce & Brinelin the Moon Kraken}{1,05,Krark the Thumbless & Sakashima of a Thousand Faces}{4,12,Lazav Dimir Mastermind (Gyruda Doom of Depths)}{2,21,Gavi Nest Warden}]7/1/24
+[{3,18,Runo Stromkirk}{4,19,Kelsien the Plague}{2,20,Brion Stoutarm}{1,21,Gavi Nest Warden}]7/1/24
+[{3,06,Muldrotha the Gravetide}{4,11,Arcades the Strategist}{5,15,Ellie and Alan, Paleontologists (Keruga, the Macrosage)}{1,05,Krark the Thumbless & Sakashima of a Thousand Faces}{2,16,Strax Sontaran Nurse}]7/1/24
+[{1,05,Krark the Thumbless & Sakashima of a Thousand Faces}{3,16,Strax Sontaran Nurse}{4,04,Vial Smasher the Fierce & Brinelin the Moon Kraken}{2,01,Atla Palani Nest Tender}]7/1/24
+[{2,01,Atla Palani Nest Tender}{4,03,Niv-Mizzet Reborn (Jegantha the Wellspring)}{1,04,Vial Smasher the Fierce & Brinelin the Moon Kraken}{3,07,Zimone and Dina}]7/1/24
+[{3,17,The Beamtown Bullies}{1,04,Vial Smasher the Fierce & Brinelin the Moon Kraken}{4,18,Runo Stromkirk}{2,11,Arcades the Strategist}]7/1/24
+[{1,07,Zimone and Dina}{2,05,Krark the Thumbless & Sakashima of a Thousand Faces}{3,10,Jalira Master Polymorphist}{4,08,Pir Imaginative Rascal & Toothy Imaginary Friend}]7/1/24
+[{1,18,Runo Stromkirk}{4,02,Jodah the Unifier}{2,05,Krark the Thumbless & Sakashima of a Thousand Faces}{3,12,Lazav Dimir Mastermind (Gyruda Doom of Depths)}]7/1/24
+[{2,17,The Beamtown Bullies}{1,07,Zimone and Dina}{3,13,Octavia Living Thesis}{4,21,Gavi Nest Warden}]7/1/24
+[{2,08,Pir Imaginative Rascal & Toothy Imaginary Friend}{1,06,Muldrotha the Gravetide}{3,18,Runo Stromkirk}{4,17,The Beamtown Bullies}]7/1/24
+[{4,02,Jodah the Unifier}{3,05,Krark the Thumbless & Sakashima of a Thousand Faces}{2,11,Arcades the Strategist}{1,03,Niv-Mizzet Reborn (Jegantha the Wellspring)}]7/1/24
+[{4,21,Gavi Nest Warden}{1,15,Ellie and Alan, Paleontologists (Keruga, the Macrosage)}{2,10,Jalira Master Polymorphist}{3,07,Zimone and Dina}]7/1/24
+[{3,12,Lazav Dimir Mastermind (Gyruda Doom of Depths)}{1,01,Atla Palani Nest Tender}{2,04,Vial Smasher the Fierce & Brinelin the Moon Kraken}{4,13,Octavia Living Thesis}]7/1/24
+

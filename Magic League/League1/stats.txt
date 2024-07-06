@@ -1,0 +1,23 @@
+01|Atla Palani Nest Tender|7|7/5/24|ENABLED|1019
+02|Jodah the Unifier|9|7/5/24|ENABLED|888
+03|Niv-Mizzet Reborn (Jegantha the Wellspring)|7|7/5/24|ENABLED|964
+04|Vial Smasher the Fierce & Brinelin the Moon Kraken|7|7/5/24|ENABLED|1019
+05|Krark the Thumbless & Sakashima of a Thousand Faces|10|7/5/24|ENABLED|1211
+06|Muldrotha the Gravetide|9|7/5/24|ENABLED|1241
+07|Zimone and Dina|7|7/5/24|ENABLED|1069
+08|Pir Imaginative Rascal & Toothy Imaginary Friend|9|7/5/24|ENABLED|1133
+09|Alela Artful Provocateur|3|7/5/24|ENABLED|926
+10|Jalira Master Polymorphist|6|7/5/24|ENABLED|921
+11|Arcades the Strategist|8|7/5/24|ENABLED|1025
+12|Lazav Dimir Mastermind (Gyruda Doom of Depths)|5|7/5/24|ENABLED|874
+13|Octavia Living Thesis|8|7/5/24|ENABLED|977
+14|Eris Roar  of the Storm|6|7/5/24|ENABLED|1042
+15|Ellie and Alan, Paleontologists (Keruga, the Macrosage)|5|7/5/24|ENABLED|923
+16|Strax Sontaran Nurse|6|7/5/24|ENABLED|955
+17|The Beamtown Bullies|12|7/5/24|ENABLED|981
+18|Runo Stromkirk|5|7/5/24|ENABLED|939
+19|Kelsien the Plague|1|7/5/24|ENABLED|965
+20|Brion Stoutarm|7|7/5/24|ENABLED|960
+21|Gavi Nest Warden|5|7/5/24|ENABLED|968
+22|Kenessos Priest of Thassa|0|7/5/24|DISABLED|1000
+23|Wyleth Soul of Steel|0|7/5/24|DISABLED|1000
