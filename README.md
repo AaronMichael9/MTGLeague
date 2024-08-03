@@ -20,7 +20,7 @@ Game tab has two states. State one allows for selecting decks for a game. The Su
  suggester class being used is hard coded in GameSetupTab and cannot be changed at runtime**. The start game button transitions the tab into state two. In state two results of the game can be entered
 or the game can be cancelled. If results are entered the program will use a Commissioner object determine mmr changes for all involved decks and then update stats.txt and history.txt. **Currently the
  commissioner class being used is hard coded in GameTab and cannot be changed at runtime.**
-7
+
  **Suggester Class**
  
 All Suggester classes must implement the suggester interface. My current prototype just selects one deck at random. More advanced ones could select decks based on mmr or last played information available
