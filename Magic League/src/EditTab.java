@@ -114,7 +114,7 @@ public class EditTab extends Tab {
 			decks.get(i).setName(names.get(i).getText());
 			decks.get(i).setEnabled(boxes.get(i).getState());
 		}
-		for(int i=n+1;i<q;i++) {
+		for(int i=n;i<q;i++) {
 			String name = names.get(i).getText();
 			if(name!=null && name.trim().length()>0) {
 				int id = DeckManager.nextID(decks,i+1);
